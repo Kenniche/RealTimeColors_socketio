@@ -1,0 +1,28 @@
+body {
+    font-size: 15px;
+    text-align: center;
+}
+.btn{
+    border: 2px solid black !important;
+}
+.btn-lg{
+    width: 100px;
+    height: 50px;
+}
+.btn-danger, .btn-danger:hover, .btn-danger:active, .btn-danger:visited {
+    background-color: pink !important;
+}
+
+.container{
+    border: 3px groove black ;
+    border-radius: 20px 50px;
+    width: 450px;
+    transform: translate(5%, 100%);
+    padding: 10px;
+}
+h1{
+    padding: 5px;
+}
+h3{
+    padding: 15px;
+}
